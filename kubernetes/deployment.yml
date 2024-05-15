@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: expensse-tracker
+  labels:
+    app: expensse-tracker
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: expensse-tracker
+  template:
+    metadata:
+      labels:
+        app: expensse-tracker
+    spec:
+      containers:
+      - name: expensse-tracker
+        image: examen:latest
+        ports:
+        - containerPort: 80

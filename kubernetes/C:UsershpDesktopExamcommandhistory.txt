@@ -1,0 +1,81 @@
+    1  git --version
+    2  docker --version
+    3  minikube --version
+    4  sudo docker images
+    5  node -v
+    6  npm -v
+    7  minikube -v
+    8  minikube -version
+    9  minikube --version
+   10  minikube version
+   11  kubectl version
+   12  exit
+   13  ls
+   14  git clone https://github.com/oumaimadghaiess/expensse-tracker.git
+   15  ls
+   16  cd cd expensse-tracker/
+   17  ls
+   18  cd expensse-tracker/
+   19  docker-compose up -d
+   20  sudo docker-compose up -d
+   21  sudo docker images
+   22  sudo docker compose up -d
+   23  sudo docker images
+   24  cd
+   25  ls
+   26  cd expensse-tracker/
+   27  ls
+   28  touch dockerfile
+   29  ls
+   30  nano dockerfile 
+   31  cat dockerfile
+   32  sudo docker build
+   33  sudo docker build -t
+   34  sudo docker build -t examen
+   35  sudo docker build -t examen .
+   36  sudo docker images
+   37  sudo docker run -d --name my_examen_container examen
+   38  sudo docker run -d --name 9f4c71f9e1a2123b5e48616f6b458e34793351cec4d2c4576bd0c78d8d1573a4 examen
+   39  sudo docker exec -it my_examen_container /bin/bash
+   40  sudo docker exec -it sudo docker exec -it my_examen_container /bin/bash /bin/bash
+   41  sudo docker exec -it 3c5b60350d674fa7631baa29852ed9d989265fe53bd145a7793a33ae342e51e3 /bin/bash
+   42  mkdir kubernetes
+   43  cd kubernetes/
+   44  touch deployment.yml
+   45  nano deployment.yml 
+   46  touch service.yml
+   47  nano s
+   48  nano service.yml 
+   49  nano deployment.yml 
+   50  sudo docker images
+   51  nano deployment.yml 
+   52  kubectl apply -f deployment.yml
+   53  cd
+   54  cd expensse-tracker/
+   55  kubectl apply -f deployment.yml
+   56  kubectl apply -f kuernetes/deployment.yml
+   57  cd
+   58  kubectl apply -f deployment.yml
+   59  cd expensse-tracker/
+   60  cd kubernetes/
+   61  kubectl apply -f deployment.yml
+   62  nano deployment.yml 
+   63  kubectl apply -f deployment.yml
+   64  kubectl apply -f service.yml
+   65  nano deployment.yml 
+   66  kubectl apply -f deployment.yaml
+   67  nano service.yml 
+   68  kubectl apply -f deployment.yaml
+   69  kubectl -v
+   70  kubectl version
+   71  kubectl apply -f deployment.yaml
+   72  nano deployment.yml 
+   73  nano service.yml 
+   74  kubectl get pods
+   75  kubectl get service
+   76  kubectl apply -f deployment.yaml
+   77  kubectl get services
+   78  kubectl get all
+   79  history
+   80  history > vagrant/commandhistory.txt
+   81  history > C:\Users\hp\Desktop\Exam\commandhistory.txt
